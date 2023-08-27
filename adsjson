@@ -1,10 +1,12 @@
+com.SoodaAppsJT.musitipssimplemusichelper
+
 {
 
 	"ads": {
-		"Bannerapplovine": "",
-		"Interapplovine": "",
-		"max_native_normal": "",
-		"max_native_small": "",
+		"Bannerapplovine": "8f575daae1dc57cc",
+		"Interapplovine": "30e25e60dd28bd68",
+		"max_native_normal": "0f4dd4f2d6d1d9c9",
+		"max_native_small": "5bc8521e56ebcc35",
 		"rewordapplovine": "",
 
 		"GetApp_Url": "https://www.google.com/",
